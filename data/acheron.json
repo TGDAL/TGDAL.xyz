@@ -24,6 +24,42 @@
             "link": "https://www.youtube.com/watch?v=MfeoivApu3E",
             "percent": 98,
             "hz": "360"
+        },
+        {
+            "user": "OneAlphaHelix",
+            "link": "https://www.twitch.tv/videos/1702991349",
+            "percent": 84,
+            "hz": "360"
+        },
+        {
+            "user": "Emiliano56",
+            "link": "https://www.youtube.com/watch?v=g4_WCaKdd9I",
+            "percent": 61,
+            "hz": "360"
+        },
+        {
+            "user": "exsii",
+            "link": "https://www.youtube.com/watch?v=yBCVHKwkGEo",
+            "percent": 56,
+            "hz": "300"
+        },
+         {
+            "user": "faukkk",
+            "link": "https://www.youtube.com/watch?v=VHESONxesTw",
+            "percent": 53,
+            "hz": "360"
+        },
+        {
+            "user": "Bigthunder556,
+            "link": "https://www.youtube.com/watch?v=y26a68ov4mo",
+            "percent": 50
+            "hz": "360"
+        },
+          {
+            "user": "takmaster"
+            "link": "https://www.youtube.com/watch?v=fy3c66_pFSU",
+            "percent": 49
+            "hz": "360"
         }
     ]
 }
